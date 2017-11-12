@@ -9,12 +9,13 @@ Since I am an illustration major, it is always in my interest to somehow combine
 ## Component Parts
 
 - Arduino Uno (INPUT & OUTPUT)
-- 5.0" 40-pin TFT Display with touchscreen, bought from the Adafruit website (OUTPUT)
-- RA8875 Driver Board for 40-pin TFT Touch Displays, bought from the Adafruit website (OUTPUT)
+- 2.8 IN HD TFT touchscreen (INPUT & OUTPUT)
 
 ## Challenges
 
 I anticipate the whole project to be very challenging, as most of the parts are ones I've never touched before. I imagine to struggle a lot with trying to code all the curves, so I will need to figure out a way to make the process easier. Maybe try painting by hand - which I am sure will prove to be just as challenging with the amount of lines of code.
+
+I also am unsure about connecting the board to the screen itself and how that will go, so I imagine it will require a bit of experimenting to get right.
 
 ## Timeline
 
@@ -23,6 +24,3 @@ I anticipate the whole project to be very challenging, as most of the parts are 
 - Half of week 2, week 3 & 4: Start coding the paintings, check to see if everything is transferred through the hardware properly
 - Week 5: Presentation of final project
 
-## References and link
-
-Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
